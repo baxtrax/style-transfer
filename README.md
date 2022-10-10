@@ -4,7 +4,7 @@ Trained a neural network to learn the styles from one image, and apply them agai
 In Gatys et al (2016), there were a multitude of experiements that were conducted, but the most successfull was used in this repository. To see other experiemnts and how they faired against each other please see the research paper.
 
 # Requirements
-Please note that these are general requirements of what enviroment I used to run the code, more up-to-date versions will also suffice. The requirements are also listed in the ```requirements.txt``` file. The file was generated with ```pip freeze > requirements.txt```.
+Please note that these are general requirements of what enviroment I used to run the code, more up-to-date versions will also suffice. The requirements are listed in the ```requirements.txt``` file. The file was generated with ```pip freeze > requirements.txt```. Feel free to load useing ```pip``` to install all requirements automatically by using the txt file.
 
 # How to use
 Make sure you have the requirements setup in your enviroment. I use a general machine learning enviroment, so some of these you may not need.
