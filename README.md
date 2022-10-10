@@ -8,7 +8,7 @@ Please note that these are general requirements of what enviroment I used to run
 
 # How to use
 Make sure you have the requirements setup in your enviroment. I use a general machine learning enviroment, so some of these you may not need.
-* Modify any hyper parameters as needed
+* Modify any hyperparameters as needed
 * Add own local files for style and content if needed
 * Modify path location constants
 * Run ```main.py```
