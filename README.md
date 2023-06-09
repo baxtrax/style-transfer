@@ -13,16 +13,12 @@ In [Gatys et al (2016)](https://www.cv-foundation.org/openaccess/content_cvpr_20
 
 
 <!-- TABLE OF CONTENTS -->
+<!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
       <a href="#about-the-code">About The Code</a>
-      <ul>
-        <li><a href="#training">Training</a></li>
-        <li><a href="#feature-visualization-creation">Feature Visualization Creation</a></li>
-        <li><a href="#validation">Validation</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -34,8 +30,7 @@ In [Gatys et al (2016)](https://www.cv-foundation.org/openaccess/content_cvpr_20
     <li>
       <a href="#usage">Usage</a>
       <ul>
-        <li><a href="#feature-visualization-creation--validation">Feature Visualization Creation / Validation</a></li>
-        <li><a href="#training-models">Training-Models</a></li>
+        <li><a href="#style-transfer--gif-creation">Style Transfer / Gif Creation</a></li>
       </ul>
     </li>
   </ol>
@@ -98,3 +93,10 @@ See [main.py](main.py)
      python main.py
      ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[Python-badge]: https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=FFD343
+[Python-url]: https://www.python.org/
+[Pytorch-badge]: https://img.shields.io/badge/Pytorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white
+[Pytorch-url]: https://pytorch.org/
