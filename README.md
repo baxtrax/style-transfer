@@ -80,7 +80,6 @@ Make sure to have these installed at a minimum
    ```sh
    pip install -r requirements.txt
    ```
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
